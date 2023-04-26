@@ -1,0 +1,2 @@
+# Lexar
+my-first-project
